@@ -10,9 +10,8 @@ namespace Autofac.Extension.ModuleConfiguration {
 			var moduleName = GetType().Name.Replace("Module", "");
 
 			var moduleConfiguration = section.Modules.SingleOrDefault(m => m.Name.Equals(moduleName, StringComparison.OrdinalIgnoreCase));
-			if (moduleConfiguration == null) {
+			if (moduleConfiguration == null)
 				return;
-			}
 
 			foreach (var configProperty in moduleConfiguration.ModuleProperties.ToArray()) {
 				var moduleProperty = GetType().GetProperty(configProperty.Name);
