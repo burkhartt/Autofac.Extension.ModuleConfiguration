@@ -1,0 +1,7 @@
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\obj\Debug\Autofac.Extension.ModuleConfiguration.csprojResolveAssemblyReference.cache
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\bin\Debug\Autofac.Extension.ModuleConfiguration.dll
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\bin\Debug\Autofac.Extension.ModuleConfiguration.pdb
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\bin\Debug\Autofac.dll
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\bin\Debug\Autofac.xml
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\obj\Debug\Autofac.Extension.ModuleConfiguration.dll
+C:\_Application\v2\Autofac.Extension.ModuleConfiguration\Autofac.Extension.ModuleConfiguration\obj\Debug\Autofac.Extension.ModuleConfiguration.pdb
