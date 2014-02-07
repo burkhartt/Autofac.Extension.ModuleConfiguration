@@ -72,3 +72,11 @@ It also supports referencing connectionStrings and appSettings:
    </modules>
 </autofacModules>
 ```
+
+All you have to do is extend ConfigurableModule (extends Autofac Module class)
+
+```
+public class MyModule : ConfigurableModule {
+
+}
+```
