@@ -1,0 +1,2 @@
+Autofac.Extension.ModuleConfiguration
+=====================================
