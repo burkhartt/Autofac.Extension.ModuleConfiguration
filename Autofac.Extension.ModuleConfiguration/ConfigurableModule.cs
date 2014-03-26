@@ -41,12 +41,8 @@ namespace Autofac.Extension.ModuleConfiguration {
 		}
 
 		private void SetPropertyValue(PropertyInfo moduleProperty, string value) {
-			if (moduleProperty.PropertyType == typeof (bool)) {
-				moduleProperty.SetValue(this, bool.Parse(value));
-			}
-			else {
-				moduleProperty.SetValue(this, value);
-			}
+			var newValue = Convert.ChangeType(value, moduleProperty.PropertyType);
+			moduleProperty.SetValue(this, newValue);
 		}
 
 		private bool AppSettingsStringSpecified(Property configProperty) {

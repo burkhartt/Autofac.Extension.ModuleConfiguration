@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModuleCollection.cs" />
+    <Compile Include="ConfigurableModule.cs" />
     <Compile Include="ModuleElement.cs" />
     <Compile Include="ModulesCollection.cs" />
     <Compile Include="ModulesSection.cs" />
