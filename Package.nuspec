@@ -1,20 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
-    <version>1.0.0</version>
+    <id>Autofac.Extension.ModuleConfiguration</id>
+    <version>1.0.5</version>
     <authors>tim.burkhart</authors>
-    <owners>tim.burkhart</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <owners>tim.burkhart</owners>    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2014</copyright>
-    <tags>Tag1 Tag2</tags>
+    <description>Autofac Extension</description>
+    <releaseNotes>Updated autofac</releaseNotes>
+    <copyright>Copyright 2014</copyright>    
     <dependencies>
-      <dependency id="SampleDependency" version="1.0" />
+      <dependency id="Autofac" version="3.5.2" />
     </dependencies>
   </metadata>
 </package>
