@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Autofac.Extension.ModuleConfiguration</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.4</version>
     <title>Autofac.Extension.ModuleConfiguration</title>
     <authors>Tim Burkhart</authors>
     <owners>Tim Burkhart</owners>
@@ -11,5 +11,8 @@
     <releaseNotes>N/A</releaseNotes>
     <copyright>Copyright 2014</copyright>
     <tags>Autofac, Modules</tags>
+    <dependencies>
+      <dependency id="Autofac" version="[3.0.2, 4.0.0)" />
+    </dependencies>
   </metadata>
 </package>
