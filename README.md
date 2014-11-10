@@ -29,7 +29,7 @@ Autofac.Extension.ModuleConfiguration allows you to do it this way:
 
 ```
 <configSections>
-   <section name="autofacModules" type="Autofac.Extension.ModuleConfiguration.ModulesSection" />
+   <section name="autofacModules" type="Autofac.Extension.ModuleConfiguration.ModulesSection, Autofac.Extension.ModuleConfiguration" />
 </configSections>
 ```
 
